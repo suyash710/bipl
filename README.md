@@ -1,14 +1,16 @@
 # Kenekt
 Management Functions for Doctors Diary
 
-**Installation**
-1. Maven and Java JDK 1.8
-  [Windows SetUp](https://www.mkyong.com/maven/how-to-install-maven-in-windows/)
-  
-2. IntelliJ
-3. Java JDK 1.8
-4. Git BASH
+**Installations**
+1. [Maven](https://maven.apache.org/download.cgi)
+2. [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+3. Configure Java Home and Maven Home [Windows SetUp Instructions](https://www.mkyong.com/maven/how-to-install-maven-in-windows/)
+4. [JBOSS IDE](http://tools.jboss.org/downloads/devstudio/index.html)
+5. [Git BASH](https://git-scm.com/downloads)
 
-**Testing in local**
-
-1. Running the application on local machine: `mvn spring-boot:run`
+**Running the application in local**
+1. `Open Git bash`
+2. `cd c:/workspace`
+3. `git clone https://github.com/dobhalh/kenekt.git`
+4. `cd kenekt`
+5. `mvn spring-boot:run`
