@@ -14,3 +14,4 @@ Management Functions for Doctors Diary
 3. `git clone https://github.com/dobhalh/kenekt.git`
 4. `cd kenekt`
 5. `mvn spring-boot:run`
+6. Click [LocalHost](http://localhost:8080/) to make sure you see a welcome message
