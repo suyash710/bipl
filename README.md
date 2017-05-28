@@ -5,6 +5,7 @@ Management Functions for Doctors Diary
 1. Maven
 2. IntelliJ
 3. Java JDK 1.8
+4. Git BASH
 
 **Testing in local**
 
