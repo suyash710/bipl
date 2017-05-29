@@ -1,14 +1,12 @@
-
 <!DOCTYPE html>
 
 <html lang="en">
 
 <body>
-Date: ${time?date}
+Date: ${person.currentDate?date}
 <br>
-Time: ${time?time}
+Time: ${person.currentDate?time}
 <br>
-<h1>Message: ${message}</h1>
+<h1>Message: ${person.message}</h1>
 </body>
-
 </html>
