@@ -12,18 +12,21 @@ import org.springframework.web.bind.annotation.PostMapping;
 @Controller
 public class ProductsController {
 
-    @GetMapping("/front")
-    public String front(){
-        return "products";
+    @GetMapping("/products")
+    public String getProducts(){
+        return "products/show";
     }
 
-    @GetMapping("/doctorsdiary")
+
+    @GetMapping("/dd")
     public String doctorsdiary(){
-        return "dd";
+        return "dd/show";
     }
 
     @PostMapping("/dd/create")
     public String createEntry(){
-        return "dd";
+        return "dd/show";
     }
+
+
 }

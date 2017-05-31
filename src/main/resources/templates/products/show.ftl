@@ -1,5 +1,5 @@
 <div>
-<a href="<@spring.url '/doctorsdiary' />">
+<a href="<@spring.url '/dd' />">
     <button class="button">Doctors Diary</button>
 </a>
 </div>
