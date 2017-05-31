@@ -15,10 +15,6 @@ public class LoginController {
 
     @GetMapping("/")
     public String login(Model model){
-    	Person person= new Person(); 
-    	person.setMessage(message);
-    	person.setCurrentDate(new Date());
-    	model.addAttribute("person",person);
         return "index";
     }
 

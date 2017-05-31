@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title><@spring.message "application.title" /><#if title?has_content> - ${title}</#if></title>
+    <title>Kenekt</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -30,10 +30,8 @@
 <!--<![endif]-->
 
 <div class="wrap push">
-    <#nested>
+    <#nested/>
 </div>
-
-<#include "./_footer.ftl" />
 
 <script src="<@spring.url '/vendor/javascripts/jquery.min.js'/>"></script>
 <script src="<@spring.url '/vendor/javascripts/bootstrap.min.js'/>"></script>

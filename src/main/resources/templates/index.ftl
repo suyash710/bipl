@@ -1,12 +1,11 @@
-<!DOCTYPE html>
+<@application_base_layout>
 
-<html lang="en">
-
-<body>
-Date: ${person.currentDate?date}
-<br>
-Time: ${person.currentDate?time}
-<br>
-<h1>Message: ${person.message}</h1>
-</body>
-</html>
+<div>
+    <form id="loginForm" action="<@spring.url '/front'/>">
+        Username:<input type="text" name="username"><br>
+        Password:<input type="text" name="password"><br>
+        <input type="submit" value="submit">
+        <input type="reset" value="reset">
+    </form>
+</div>
+</@application_base_layout>
