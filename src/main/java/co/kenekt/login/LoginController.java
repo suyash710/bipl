@@ -7,10 +7,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import java.util.Date;
 
-@Controller
+@Controller 
 public class LoginController {
 
-    @Value("${application.message}")
+    @Value("${application.message}") 
     private String message;
 
     @GetMapping("/")

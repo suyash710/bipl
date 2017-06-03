@@ -8,14 +8,13 @@
         Decision Holder (Desegnation) <input type="text" name="decisionHolder"><br>
         Address: <textarea rows="2" cols="15"></textarea><br>
         Specialization <input type="text" name="specialization"><br>
-        No. Patients Influx per Day (approx) <input type="text" name="Patients No"><br>
-        Education Degree <input type="text" name="degree"><br>
+        Degree of Education<input type="text" name="degree"><br>
         Contact Number <input type="tel" name="contact"><br>
         Alternate Contact Number <input type="tel" name="alternate contact"><br>
         Email <input type="email" name="email"><br>
     </fieldset>
     <br>
-
+    
     <fieldset>
         <legend align="center"><b>Infrastructure</b></legend>
         Computer/ Laptop:
@@ -24,10 +23,16 @@
         Wifi/ Internet:
         <input type="radio" name="internet" value="yes" checked>Yes
         <input type="radio" name="internet" value="no">No<br>
-        Clinic Infrastructure <input type="text" name="infra"> <br>
-        Receptionist:
+        Clinic Infrastructure
+        <select>
+        <option value="large">Large </option>
+        <option value="medium">Medium </option>
+        <option value="small">Small </option>
+        </select>
+        <br>Receptionist:
         <input type="radio" name="receptionist" value="yes" checked>Yes
         <input type="radio" name="receptionist" value="no">No<br>
+        No. Patients Influx per Day (approx) <input type="text" name="Patients No"><br>
     </fieldset>
     <br>
     <fieldset>
@@ -39,8 +44,12 @@
         Date of Follow Up: <input type="Date" name="followUpDate" placeholder="dd-mm-yyyy"><br>
         Comments: <textarea name="followUp" rows="1" cols="10" placeholder="follow Up"></textarea><br>
         Reaction <textarea name="Reaction" rows="1" cols="30" placeholder="Interested/Not Interested/etc"></textarea><br>
-        On Board <input type="radio" name="onBoard" value="yes" checked>Yes
-        <input type="radio" name="onBoard" value="no">No<br>
+        On Board
+        <select>
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+        <option value="maybe">Maybe</option>
+        </select>
     </fieldset>
     <br>
     <input type="submit" value="submit">
