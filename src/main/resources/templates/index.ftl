@@ -1,53 +1,9 @@
-<!DOCTYPE html>
-<html lang="en" class="no-js">
-	<head>
-		<title>Login</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta name="apple-mobile-web-app-status-bar-style" content="black">
-		<meta content="" name="description" />
-		<meta content="" name="author" />
-		<link rel="shortcut icon" href="../assets/images/logo-mob.png" type="image/x-icon">
-		<style type="text/css">
+<@applicatioon_base_layout>
+<div>
 
-	body {
-        background-color: #ffffff;
-        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-        font-size: 14px;
-        color:#000;
-        margin: 0;
-        padding: 0;
-    }
-		.box {
-		    background: #fff none repeat scroll 0 0;
-		    /*height: 416px;*/
-		    position: absolute;
-		    right: 12%;
-		    top: 18%;
-		    width: 346px;
-		    z-index: 10000;
-		}
-		.topmenu-active{
-			color :red;
-		}
-		.resize-login{
-			z-index: 10001;
-		}
-		  html, body {
-        position: relative;
-        height: 100%;
-    }
+		
+		<!-- 'LINK' tag is not placed Properly, causing error in Output -->
 
-    .swiper-container {
-        width: 100%;
-        height: 100%;
-    }
-    .swiper-slide {
-        background-position: center;
-        background-size: cover;
-    }
-		</style>
 		<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/bootstrap/css/bootstrap.min.css">
 
 	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/font-awesome/css/font-awesome.min.css">
@@ -69,17 +25,12 @@
 	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/css/dd-responsive.css">
 
 	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/Swiper-master/dist/css/swiper.min.css">
-	
-	</head>
-	
-		<body style="background-color:#f9f9f9">
 		     
-	    <div class="inner_wrapper_3 ">
+	   	<div class="inner_wrapper_3 ">
 
-	        <div class="dd_doctor_login_main_hd"></div>
+	    <div class="dd_doctor_login_main_hd"></div>
 
-	        <div class="doctor_login_main">	
-
+	    <div class="doctor_login_main">	
 
 				<div class="box_4" >
 				<div class="box_2_main" style="border-right:none;">
@@ -137,7 +88,7 @@
 			                    <div class="heading ">
 			                          			                          			                                
 			                    </div>
-                	</div>
+			              </div>
 			        				<div class="form-group dd_mg_B_10">
 			        					<div class="col-sm-12 dd_mg_B_T_10">
 											<span class="input-icon ">
@@ -199,6 +150,6 @@
 	    <script src="https://doctorsdiary.co/assets/js/login.js"></script>
 
 	    <script src="https://doctorsdiary.co/assets/js/doctor-login.js"></script>
- 	
-	</body>
-</html>
+
+</div>
+</@applicatioon_base_layout>

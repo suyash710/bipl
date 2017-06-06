@@ -9,11 +9,11 @@
     <base href="<@spring.url '/' />"/>
 
     <link href="<@spring.url '/vendor/stylesheets/bootstrap.css'/>" rel="stylesheet"/>
-
     <link href="<@spring.url '/vendor/stylesheets/bootstrap-theme.css' />" rel="stylesheet"/>
     <link href="<@spring.url '/vendor/stylesheets/jquery.dataTables.min.css'/>" rel="stylesheet"/>
     <link href="<@spring.url '/vendor/stylesheets/jquery.fileupload.css'/>" rel="stylesheet"/>
-    
+    <link href="<@spring.url '/vendor/stylesheets/new.css'/>" rel="stylesheet"/>
+        
     <script src="<@spring.url '/vendor/javascripts/modernizr.js'/>"></script>
 
     <!--[if lt IE 9]>
@@ -21,14 +21,6 @@
     <script src="<@spring.url '/vendor/javascripts/respond.js'/>"></script>
     <![endif]-->
     
-</head>
-<!--[if IE 8 ]>
-<body class="ie8">
-<![endif]-->
-<!--[if !IE]>-->
-<body>
-<!--<![endif]-->
-
 <div class="wrap push">
     <#nested/>
 </div>
