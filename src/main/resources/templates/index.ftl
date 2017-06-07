@@ -1,31 +1,31 @@
-<@applicatioon_base_layout>
+<@application_base_layout>
 <div>
 
-		
-		<!-- 'LINK' tag is not placed Properly, causing error in Output -->
 
-		<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/bootstrap/css/bootstrap.min.css">
+		<!--&lt;!&ndash; 'LINK' tag is not placed Properly, causing error in Output &ndash;&gt;-->
 
-	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/font-awesome/css/font-awesome.min.css">
+		<!--<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/bootstrap/css/bootstrap.min.css">-->
 
-	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/fonts/style.css">
+	    <!--<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/font-awesome/css/font-awesome.min.css">-->
 
-	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/css/main.css">
+	    <!--<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/fonts/style.css">-->
 
-	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/css/main-responsive.css">
+	    <!--<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/css/main.css">-->
 
-	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/iCheck/skins/all.css">
+	    <!--<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/css/main-responsive.css">-->
 
-	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/bootstrap-colorpalette/css/bootstrap-colorpalette.css">
+	    <!--<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/iCheck/skins/all.css">-->
 
-	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/perfect-scrollbar/src/perfect-scrollbar.css">
-	    
-	    <link media="print" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/css/print.css">
-	   
-	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/css/dd-responsive.css">
+	    <!--<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/bootstrap-colorpalette/css/bootstrap-colorpalette.css">-->
 
-	    <link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/Swiper-master/dist/css/swiper.min.css">
-		     
+	    <!--<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/perfect-scrollbar/src/perfect-scrollbar.css">-->
+
+	    <!--<link media="print" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/css/print.css">-->
+
+	    <!--<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/css/dd-responsive.css">-->
+
+	    <!--<link media="all" type="text/css" rel="stylesheet" href="https://doctorsdiary.co/assets/plugins/Swiper-master/dist/css/swiper.min.css">-->
+
 	   	<div class="inner_wrapper_3 ">
 
 	    <div class="dd_doctor_login_main_hd"></div>
@@ -110,46 +110,46 @@
 		</div>
 
 
-		
-		<script src="assets/plugins/respond.min.js"></script>
+		<!---->
+		<!--<script src="assets/plugins/respond.min.js"></script>-->
 
-		<script src="assets/plugins/excanvas.min.js"></script>
+		<!--<script src="assets/plugins/excanvas.min.js"></script>-->
 
-		<script type="text/javascript" src="assets/plugins/jQuery-lib/1.10.2/jquery.min.js"></script>
+		<!--<script type="text/javascript" src="assets/plugins/jQuery-lib/1.10.2/jquery.min.js"></script>-->
 
-		<script src="https://doctorsdiary.co/assets/plugins/jQuery-lib/2.0.3/jquery.min.js"></script>
-     
-	    <script src="https://doctorsdiary.co/assets/plugins/jquery-ui/jquery-ui-1.10.2.custom.min.js"></script>
+		<!--<script src="https://doctorsdiary.co/assets/plugins/jQuery-lib/2.0.3/jquery.min.js"></script>-->
+     <!---->
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/jquery-ui/jquery-ui-1.10.2.custom.min.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/bootstrap/js/bootstrap.min.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/jquery-inputlimiter/jquery.inputlimiter.1.3.1.min.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/jquery-inputlimiter/jquery.inputlimiter.1.3.1.min.js"></script>-->
 
-		<script src="https://doctorsdiary.co/assets/plugins/autosize/jquery.autosize.min.js"></script>
+		<!--<script src="https://doctorsdiary.co/assets/plugins/autosize/jquery.autosize.min.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/blockUI/jquery.blockUI.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/blockUI/jquery.blockUI.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/iCheck/jquery.icheck.min.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/iCheck/jquery.icheck.min.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/perfect-scrollbar/src/perfect-scrollbar.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/perfect-scrollbar/src/perfect-scrollbar.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/perfect-scrollbar/src/jquery.mousewheel.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/perfect-scrollbar/src/jquery.mousewheel.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/less/less-1.5.0.min.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/less/less-1.5.0.min.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/jquery-cookie/jquery.cookie.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/jquery-cookie/jquery.cookie.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/bootstrap-colorpalette/js/bootstrap-colorpalette.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/bootstrap-colorpalette/js/bootstrap-colorpalette.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/js/main.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/js/main.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/plugins/jquery-validation/dist/jquery.validate.min.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/plugins/jquery-validation/dist/jquery.validate.min.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/js/login.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/js/login.js"></script>-->
 
-	    <script src="https://doctorsdiary.co/assets/js/doctor-login.js"></script>
+	    <!--<script src="https://doctorsdiary.co/assets/js/doctor-login.js"></script>-->
 
 </div>
-</@applicatioon_base_layout>
+</@application_base_layout>

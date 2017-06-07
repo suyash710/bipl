@@ -1,0 +1,1116 @@
+
+@media only screen and (max-width: 1298px){
+
+.pressure_2 {
+float: left;
+font-size: 18px;
+padding: 0 2px;
+}
+
+}
+
+@media only screen and (max-width: 1292px){
+
+.dd_sidetab li a {
+    font-size: 14px;
+}
+}
+
+@media only screen and (max-width: 1158px){
+
+.dd_beforfood {
+
+    right: 50px;
+
+}
+
+.dd_presc_medicin {
+    width: 203px;
+}
+.drugs_row input.dd_input_mini {
+    margin-right: 20px;
+    width: 203px;
+}
+.dd_patient_add_pd_left{
+    padding-left: 60px !important;
+}
+a.dd_billing_top_hd {
+    font-weight: 700 !important;
+    min-width: 100%;
+    text-align: center !important;
+}
+
+}
+@media only screen and (max-width: 1000px){
+
+    .dd_patient_dd .col-sm-2{
+        width: 100% !important;
+
+    }
+       .dd_patient_dd .col-sm-10{
+        width: 100% !important;
+
+    }
+    .dd_patient_add_pd_left{
+        padding-left: 20px !important;
+    }
+
+.navbar-tools > ul > li > a {
+     border: 0;
+    border-radius: 4px;
+    color: #757575;
+    font-size: 16px;
+    line-height: 26px;
+    width: 100%;
+    margin-bottom: 2px;
+     overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;   
+}
+
+
+.navbar-tools .dropdown-menu {
+    min-width: 223px;
+}
+.navbar-tools .dropdown-menu > li > a:hover, .navbar-tools .dropdown-menu > li > a:focus, .navbar-tools .dropdown-submenu:hover > a, .navbar-tools .dropdown-submenu:focus > a, .navbar-tools .drop-down-wrapper li a:hover, .navbar-tools .drop-down-wrapper li a:focus {
+
+    width: 221px;
+}
+
+.dd_btn_3 {
+    background-color: #428bca;
+    border: 1px solid #cbcbcb;
+    border-radius: 4px;
+    color: #fff;
+    height: 34px;
+    margin-left: 0;
+    text-align: center;
+    width: 218px;
+}
+.dd_btn_4 {
+    background-color: #428bca;
+    border: 1px solid #cbcbcb;
+    border-radius: 4px;
+    color: #fff;
+    height: 34px;
+    margin-left: 0;
+    text-align: center;
+    width: 218px;
+}
+.box_2 {
+    right: 10%;
+}
+.box_admin {
+
+ background: none;
+    left:0;
+    margin-left: 0;
+    margin-top: 0;
+    opacity: 0.97;
+    padding: 0;
+    position: re;
+    top: 0;
+    width: auto;
+    z-index: 999;
+    }
+.box_admin_inner{
+    height: 350px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background: #fff none repeat scroll 0 0;
+    padding: 10px;
+}
+
+.dd_form_id_2 {
+    width: 100%;
+}
+.dd_form_id_3 {
+
+    width: 94%;
+}
+.dd_my_from{
+    width: auto;
+    margin-bottom: 0;
+    float: none;
+
+}
+.dd_patient_pd_L{
+    width: 100%;
+    border: 0;
+    padding-right: 0;
+    padding-left: 0
+}
+.dd_patient_pd_R {
+    padding: 0;
+    width: 100%;
+}
+
+.dd_my_btn {
+    float: none;
+    width: 100%;
+}
+.dd_btn_4{
+    margin-left:0px;
+}
+.dd_pd_LR_20{
+    margin: 10px 18px;
+    box-sizing: border-box;
+}
+.logo_div {
+
+    margin-left: 15px;
+}
+.dd_upper{
+/*  width: 100%;*/
+    text-align: center;
+}
+.dd_my_from{
+    margin-left: 0;
+}
+.dd_btn_home{
+    text-align: center;
+    margin: 0 auto;
+    display: table;
+}
+
+.dd-id-hd{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+    border-bottom: 1px solid #cbcbcb;
+
+}
+
+.dd_slider_hd{
+/*  font-weight: bold;*/
+    width: 300px;
+
+    left: 10%;
+    top: 50%;
+    margin-left: -50px;
+    margin-top: -60px;
+ 
+}
+.box_register_2 {
+    background-color: rgba(255, 255, 255, 0.97);
+    border-radius: 5px;
+    box-shadow: 13px 0 40px 8px rgba(0, 0, 0, 0.8);
+    margin-top: -160px;
+    padding: 25px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    width: auto;
+    z-index: 999;
+}
+.dd_presc_medicin {
+    width: auto;
+}
+
+}
+
+@media only screen and (max-width: 900px){
+
+    .footer_div_2 {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+
+.footer_div_2 .footer_ul {
+    display: inline-flex;
+    margin: 0;
+    padding: 0;
+}
+    
+
+
+.dd_sample_R {
+    float: none;
+    margin-left: 20px;
+    width: 100%;
+}
+.dd_sample_M {
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    width: 94%;
+}
+.dd_sample_L {
+    float: none;
+    margin-left: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.dd_sample_F {
+    float: none;
+    width: 100%;
+}
+.drugs_row input.dd_input_mini {
+    width: 200px;
+    margin-right: 20px;
+}
+.dd_presc_medicin{
+    width: 220px;
+}.footer_div {
+
+    float: none;
+    text-align: center;
+    width: 100%;
+}
+
+.footer_div {
+    color: rgba(255, 255, 255, 0.8);
+    float: none;
+    font-family: "Open Sans",sans-serif;
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+}
+
+
+}
+
+@media only screen and (max-width: 767px){
+
+
+.box_4 {
+    margin: 0px auto;
+    width: 100%;
+}
+
+.doctor_login_main .box_2_main {
+    border-right: 0;
+    padding-right: 0px;
+    width: 100%;
+}
+
+.btn_113{
+    width:100%;
+}
+
+.dd_change_password {
+    background: hsla(0, 0%, 0%, 0) url("../images/icons/change_password_bl.svg") repeat scroll 0 0 / cover ;
+    display: inline-block;
+    height: 25px;
+    left: 13px;
+    position: absolute;
+    top: 9px;
+    width: 25px;
+}
+.dd_logout {
+    background: hsla(0, 0%, 0%, 0) url("../images/icons/logout_bl.svg") repeat scroll 0 0 / cover ;
+    display: inline-block;
+    height: 25px;
+    left: 13px;
+    position: absolute;
+    top: 9px;
+    width: 25px;
+}
+
+.dd_Plaque_pd_0 {
+    padding-bottom: 10px;
+}
+.dd_dr_serch_btn{
+    width: 100%;
+    margin-left: 0 !important;
+}
+
+.navbar-fixed-bottom {
+    position: relative;
+}
+
+.dd_bodred_l_0{
+    border-left: 1px solid hsl(0, 0%, 77%) !important;
+}
+
+.patient_settings > li > a {
+    padding: 20px 20px !important;
+    margin-left: 0px !important;
+   
+}
+
+.thumbnail {
+    width: 193px;
+}
+
+.inner_wrapper_3 {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.dd_email_reg_label_3 {
+ 
+    float: none;
+}
+
+.inner_wrapper_2 {
+    padding: 0 20px;
+}
+
+.dd_input_icon_name {
+   
+}
+
+.dd_textalign_center {
+    display: block;
+
+}
+
+.box_2_main {
+    border-right: 0;
+    padding-right: 0px;
+    width: 100%
+}
+
+.doctor_login_main .box_2_main {
+    border-right: 0;
+    padding-right: 0;
+    width: 100%;
+}
+
+.doctor_login_main span.input-icon, span.input-help {
+    display: block;
+    position: relative;
+}
+.box_right {
+    float: none;
+    margin-top: 30px;
+    padding-left: 0px;
+    width: 100%;
+}
+
+
+.box_2 {
+    float: none;
+    margin-top: 0px;
+    width: 100%;
+}
+
+.dd_resp_menu ul li {
+        padding: 12px 0px;
+}
+.dd_resp_menu ul li  a{
+    padding: 0px 0px;
+
+}
+.navbar-inverse .nav > li > a {
+     border-right: 0; 
+     height: 50px;
+}
+.dd_menu_main_L {
+    position: absolute;
+    top: 28px;
+}
+.dd_col_size .col-sm-1 {
+    width: 100%;
+}
+.btn-danger {
+    margin-top: 15px;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 0;
+}
+.dd_col_size .col-sm-11 {
+    width: 100%;
+}
+.dd_col_size .col-sm-3 {
+    width: 100%;
+}
+.dd_col_size .col-sm-5 {
+    width: 100%;
+}
+
+.breadcrumb{
+    margin-top: 17px;
+}
+.dd_border_table{
+   border: 0;
+}
+.dd_resp_menu{
+   display: block;
+}
+.navbar-content{
+   display: none;
+}
+.thumbnail{
+    padding: 20px;
+}
+ .form-group label{
+    padding-bottom: 1px;
+}
+.dd_Menstrual_mg{
+    margin: 0 -15px;
+}
+.dd_dynamic_mg_15 {
+    margin-left: 0;
+    margin-right:0;
+}
+.dd_width_surgicalhistory_100{
+    margin: 10px 0;
+    width: 80px;    
+}
+.dd_Present_PD {
+    margin: 6px 16px;
+    padding: 0;
+    text-align: left;
+}
+.dd_mg_Medication_10{
+    margin:10px 0;
+
+}
+.dd_menarche .form-control{
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.box_2 {
+    right: 50%;
+    margin-right: -145px;
+}
+.dd_rs_mg{
+    margin-bottom: 10px;
+}
+.dd_rs_P_0{
+    padding:0; 
+}
+.dd_form_group_PM_0{
+    margin: 0;
+    padding: 0;
+}
+.dd_btn_PD_0{
+    padding: 0;
+}
+.dd_main_logo{
+    display:none; 
+}
+.dd_PDR_40{ 
+    padding: 0 10px;
+}
+.main-container {
+    margin-top: -17px;/*for header top main*/
+}
+.nav li a {
+    font-family: "Open Sans",sans-serif;
+    font-size: 14px;
+    line-height: 0;
+    padding: 12px 36px;
+}
+.navbar-inverse{
+    background-color: none;
+}
+.navbar{
+    min-height: auto;
+}
+.navbar > .container .navbar-brand, .logo {
+    padding: 5px 0 5px 10px;
+}
+.dd_PDL_40 {
+    padding: 0 10px;
+    border: 0;
+}
+.dd_mg_btn_10 {
+    margin: 0;
+}
+.main-navigation {
+    border-top: medium none; 
+    margin-top: 47px;
+    position: fixed;
+    right: 0;
+    top: 133px;
+    width: 70%;
+    z-index: 1005;
+}
+.dd_pdl_0 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.dd_sample_M .form-control{
+    margin-top: 0;
+      margin-bottom:0;
+}
+.presentPastDiv .form-control{
+    margin-top:0;
+        margin-bottom:0;
+}
+.table-responsive {
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0 5px 20px 10px;
+    width: 100%;
+}
+hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #eee -moz-use-text-color -moz-use-text-color;
+    border-image: none;
+    border-style: solid none none;
+    border-width: 1px 0 0;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.dd_allergy{
+    height: auto;
+    margin-bottom: 10px;
+    /*border-bottom: 1px solid #e9e9e9;*/
+}
+.dd_slider_hd{
+display: none;
+ 
+}
+.drugs_row td input{
+    margin-right: 10px;
+}
+.dd_praji_mg_right {
+    margin-left: 0;
+}
+.dd_menarche_4 .col-sm-4{
+    float: left;
+    width: 50%;
+}
+.dd_menarche_4 .col-sm-8{
+    float: right;
+    width: 50%;
+}
+.dd_sidetab li{
+    width: 100%;
+}
+.dropdown-menu{
+    width: 100%;
+    background-color: #f9f9f9;
+    box-shadow: none;
+}
+.tab-bricky > li.open .dropdown-toggle {
+    display: none;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+
+    line-height: 0;
+ }
+.nav-tabs > li > a, .nav-tabs > li > a:focus{
+        line-height: 0;
+
+}
+.dd_btn_home_2 .help-block{
+    margin: 0 auto !important;
+    display: table !important;
+    text-align: center !important;
+}
+.pressure{
+    display: none;
+}
+.tabs-left > .nav-tabs {
+    border-color: hsl(0, 0%, 87%);
+    float: none;
+    height: auto;
+    margin-bottom: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    top: auto;
+    margin-bottom: 15px;
+}
+#dummy a {
+    font-size: 16px;
+    padding: 20px 15px;
+}
+.pricon {   
+    float: left;
+    height: 22px;
+    margin-right: 5px;
+    margin-top: -9px;
+    width: 22px;
+}
+.dd_prev_margine .nav-tabs {
+    margin-right: 0;
+}
+.dd_sidetab {
+    margin-right: 0px;
+}
+.tabs-left .tab-content {
+    border-top: 1px solid hsl(0, 0%, 87%);
+}
+
+.dd_chang_sm1 .col-sm-1 {
+    padding-right: 0 !important;
+    width: 98% !important;
+}
+.dd_press_pd{ 
+    padding-left: 15px;
+    margin-top: 10px;
+
+}
+.pricon {
+    float: left;
+    height: 22px;
+    margin-right: 5px;
+    margin-top: 2px; /*this is for responsive previous treatment menu*/
+    width: 22px;
+}
+.navbar-fixed-top, .navbar-fixed-bottom {
+    left: 0;
+    position: inherit !important;
+    right: 0;
+    transform: translate3d(0px, 0px, 0px);
+    z-index: 1030;
+}
+
+
+}
+
+
+    
+@media only screen and (max-width: 640px){
+
+.footer_div{
+    width: 100%;
+    text-align: center;
+    }
+.footer_div_2{
+        display: none;
+    }
+
+    .footer_pd{
+        padding: 10px 0;
+    }
+
+
+
+.dd_logo_img {
+    background-image: url("../images/logo-mob.png") ;
+    height: 54px;
+    width: 54px;
+    margin-top: 10px;
+    background-position: center center;
+    background-size: cover;
+}
+
+.login_div{
+    float: right;
+    margin: 28px 10px 21px 0;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.dd_login_header {
+    min-height: 75px;
+}
+.carousel-inner {
+    height: 95%;
+}
+
+}
+
+
+
+@media only screen and (max-width: 460px){
+.dd_doctor_login_responsive_logo{
+    height: 60px;
+}
+.doctorlogin_main_rs{
+    float: left;
+}
+.dd_logo_img_rs {
+    background-image: url("../images/svg/dd_logo.svg");
+    background-position: center center;
+    background-size: cover;
+    display: table;
+    float: none;
+    height: 54px;
+    margin: 30px auto;
+    width: 54px;
+}
+.doctorlogin_main_rs a{
+    color: hsl(0, 0%, 100%);
+    font-family: "Montserrat",sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    margin-right: 10px;
+    padding: 9px 18px;
+    text-decoration: none;
+    background: #005a7e;
+
+}
+.dd_dropdown_menu  li {
+    padding: 10px !important;   
+}
+.dd_doctor_login_responsive_login_div {
+    display: flex;
+    height: auto;
+    justify-content: center;
+    margin: 20px auto 0 auto;
+    text-align: center;
+}
+.logo{
+    height: auto;
+    margin:  10px auto;
+    text-align: center;
+}
+
+
+.dd_doctor_login_responsive_last{
+    display: block;
+}
+.
+.dd_doctor_login_responsive{
+    display: none;
+}
+.dd_doctor_login_main_hd{
+    display: none;
+}
+.navbar-brand img{
+    margin-top: -17px;
+}
+.patient_name_res{
+        display: none;
+}
+.dd_my_from div .dd_form_id_op_1{
+    width: 34.5%
+}
+.dd_my_from div .dd_form_id_op_3{
+    width: 34.2%
+}
+/*.dd_my_from div .dd_form_id_op_1  {
+    height: 45px;
+    background: #fff;
+    border:1px solid #cbcbcb;
+    width : 32.5%;
+    font-size: 20px !important;
+    border-right: 1px solid #cbcbcb
+}
+.dd_my_from div .dd_form_id_op_2  {
+    height: 45px;
+    background: #fff;
+    border:1px solid #cbcbcb;
+    width : 32.5%;
+    font-size: 20px !important;
+    margin-left:0px !important;
+    
+}
+.dd_my_from div .dd_form_id_op_3  {
+    margin-left: 0px !important;
+    height: 45px;
+    background: #fff;
+    border:1px solid #cbcbcb;
+    width : 32.5%;
+    font-size: 20px !important;
+    border-left: 1px solid #cbcbcb;
+
+}
+
+.dd_form_id_op_1,.dd_form_id_op_2,.dd_form_id_op_3 {
+    display: table !important;
+    margin: 0 auto 5px auto !important;
+    text-align: center !important;
+    width: 100% !important;
+}*/
+.dd_btn_home_2 {
+    margin-right: 0px;
+}
+
+.form-group .col-sm-12 .input-icon .dd_input_2 {
+    width: 100%;
+    float: none;
+    /*border: 1px solid #cbcbcb*/
+
+}
+.form-group .col-sm-12 .input-icon .dd_input_3 {
+    width: 100%;
+    float: none;
+    /*border: 1px solid #cbcbcb
+   */
+
+}
+
+.form-group .col-sm-12 .input-icon .dd_input_4{
+    width: 100%;
+    float: none;
+
+}
+.form-group .col-sm-12 .input-icon .dd_input_5{
+    width: 100%;
+    float: none;
+}
+.form-group .col-sm-12 .input-icon .dd_input_6{
+    width: 100%;
+    float: none;  
+ }
+
+.login_div2 {
+    display: table;
+    float: none;
+    font-size: 14px;
+    margin: 10px auto;
+    text-align: center;
+    text-transform: uppercase;
+}
+    .dd_doctor_login_main_hd span{
+        display: none;
+
+    }
+    .dd_textalign_center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.dd_patient_name{
+    display: none;
+}
+
+
+.dd_personal_phone{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.footer_div{
+    display: block;
+}
+    .dd_profil {
+    margin-right: 0;
+    margin-top: 0;
+}
+.dd_login_header{
+     display: none;
+}
+.dd_drlogin_responsive{
+    display: inline;
+}
+.dd_logo_responsive{
+
+    display: table;
+    margin: 30px auto 20px;
+    text-align: center;
+}   
+.dd_textalign_center_mg{
+        font-size: 14px;
+    }
+.box_register{
+    right: 8%;
+}
+.logo_div_res{
+   margin: 0 auto;
+    display: table;
+    text-align: center;
+}
+.login_div_res{
+   margin: 0px auto;
+    display: table;
+    text-align: center;
+}
+.dd-doctorhome_res{
+     margin: 0px auto;
+    display: table;
+    text-align: center;
+}
+.login_div_res a{
+   color: #535353;
+    font-family: open sans;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.login_HD{
+    display: block;
+    font-size: 14px;
+}
+.dd_create{
+
+    display:none; 
+}
+
+.box_register{
+    margin-top: -200px;
+}
+.navbar-tools {
+    border-top: 0px solid #080808;
+    padding: 0 15px;
+}
+
+.dropdown-toggle span{
+    text-align: center;
+    margin: 9px auto -5px auto;
+}
+.dd_doctor_home_icon{
+    margin-left: 7px;
+}
+.current-user .username {
+    display: table;
+
+}
+.dropdown-toggle .username {
+    display: table;
+    float: left;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+.dd_pd_LR_20{
+    display: none;
+}
+.navbar-tools {
+    padding: 0;
+}
+li.dropdown.current-user .dropdown-menu li a {
+    background: #005a7e none repeat scroll 0 0;
+    border-bottom: medium none !important;
+    color: #fff;
+}
+.navbar-tools .dropdown-menu > li > a:hover, .navbar-tools .dropdown-menu > li > a:focus, .navbar-tools .dropdown-submenu:hover > a, .navbar-tools .dropdown-submenu:focus > a, .navbar-tools .drop-down-wrapper li a:hover, .navbar-tools .drop-down-wrapper li a:focus {
+    border: 0px solid #005a7e;
+}
+.navbar > .container .navbar-brand, .logo {
+    margin-top: 10px;
+
+}
+.box_register {
+    margin-top: -136px;
+}
+
+.dd_Present_mg {
+    margin-bottom: 10px;
+    margin-right: 0;
+    position: inherit;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+.btn.btn-primary.pdfopen {
+    margin-bottom: 10px;
+    margin-left: 0;
+}
+.dd_print {
+    color: hsl(0, 0%, 100%);
+    padding: 6px 20px;
+    position: inherit;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+.btn.btn-purple.share-prescription.dd_share {
+    border-radius: 0;
+    box-sizing: border-box;
+    float: none;
+    margin-bottom: 10px;
+    position: initial;
+    top: 0;
+    width: 100%;
+}
+.dd_menarche_4 .col-sm-4 {
+    float: none;
+    width: 100%;
+}
+.dd_praji_followup input {
+    margin-bottom: 10px;
+    width: 100%;
+}
+.dd_btn_center {
+    width: 100%;
+}
+.dd_addmore_0 {
+    text-align: center;
+    width: 100%;
+}
+.dd_menarche_4 col-sm-8{
+    width: 100%;
+}
+.dd_menarche_4 .col-sm-8 {
+    float: none;
+    width: 100%;
+}
+
+.dd_logo_img_2 {
+    background-image: url("../images/doctors_diary_logo_2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: table;
+    height: 62px;
+    margin:0 auto;
+    width: 144px;
+    margin-top: 20px;
+}
+.logo_div {
+    float: none;
+    height: 72px;
+    width: 100%;
+}
+.navbar-brand {
+    float: left;
+    margin-top: 21px;
+    padding: 0 5px 0 5px;
+    line-height: 0;
+    height: auto;
+}
+.login_div {
+    float: none;
+    margin: 28px 10px 21px 0; 
+}
+.doctorlogin_main {
+    display: flex;
+    float: none;
+}
+.patientlogin_main {
+    display: flex;
+    float: none;
+    position: relative;
+    margin-top: 10px;
+}
+.login_div a {
+    width: 100%;
+    text-align: center;
+    display: table;
+}
+.dd_login_header_2{
+    display:none;
+}
+
+}
+
+@media only screen and (max-width: 400px){
+
+
+
+
+}
+@media only screen and (max-width: 320px){
+
+.box_register{
+    right: 4%;
+}
+
+.dd_menarche_3 .form-control{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+
+/* Disease atlas  */
+@media only screen and (max-width: 767px){
+.disease-dd_drlogin_responsive
+{
+        display: inline;
+}
+.disease_dd_login_header_2
+{
+      display: none;
+}
+.disease-login_div2 {
+    display: table;
+    float: none;
+    font-size: 14px;
+    margin: 10px auto;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+}
+
+
+
